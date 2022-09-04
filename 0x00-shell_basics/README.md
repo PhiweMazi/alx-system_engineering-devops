@@ -1,1 +1,1 @@
-scripts that lists all files in the current directory and the parent of the working directory
+script that prints iamafile which is in a /tmp directory
