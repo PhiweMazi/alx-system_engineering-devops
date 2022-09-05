@@ -1,1 +1,1 @@
-create a symbolic link in the current directory to /bin/ls named __ls__
+script that copies HTML files from current directory to parentof working directory
